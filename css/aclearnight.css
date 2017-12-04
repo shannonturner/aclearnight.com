@@ -1,0 +1,55 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url(../images/hero.png);
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+#hero {
+  
+  margin-bottom: 30px;
+  min-height: 200px;
+}
+
+#hero-text {
+  padding-top: 40px;
+}
+
+#hero h1 {
+  font-size: 350%;
+  font-weight: bold;
+}
+
+p {
+  font-size: 125%;
+}
+
+.download-buttons {
+  margin-top: 20px;
+}
+
+.download-badge {
+  margin: 10px;
+}
+
+#app-narrative h2 {
+  margin-top: 45px;
+}
+
+#created-by {
+  margin-top: 100px;
+}
+
+#app-store-badge {
+  width: 240px;
+  height: 80px;
+}
+
+#google-play-badge {
+  width: 246px;
+  height: 80px;
+}
